@@ -1,3 +1,30 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@jpcarrijo 
+acenelio
+/
+dsmeta-css
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+dsmeta-css/styles.css
+@acenelio
+acenelio Primeira versao
+Latest commit a057139 on 8 Jul
+ History
+ 1 contributor
+173 lines (143 sloc)  2.55 KB
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 
 * {
@@ -171,3 +198,17 @@ header {
         display: table-cell;
     }
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
