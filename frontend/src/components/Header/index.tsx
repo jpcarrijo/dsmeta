@@ -3,12 +3,17 @@ import "./styles.css"
 function Header() {
   return (
     <header>
-      <div className="dsmeta-logo-container">
-        <img src={logo} alt="DSMeta" />
+      <div
+        className="dsmeta-logo-container">
+        <img
+          src={logo}
+          alt="DSMeta" />
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://www.instagram.com/jpcarrijo/" target={"_blank"}> @jpcarrijo</a>
+          <a
+            href="https://www.instagram.com/jpcarrijo/"
+            target={"_blank"}> @jpcarrijo</a>
         </p>
       </div>
     </header>
