@@ -86,7 +86,7 @@ function SalesCard() {
                     className="show992">{sale.id}</td>
                   <td
                     className="show576">{formatDate(sale.date)}</td>
-                    {/* className="show576">{new Date(sale.date).toLocaleDateString()}</td> */}
+                  {/* className="show576">{new Date(sale.date).toLocaleDateString()}</td> */}
                   <td>{sale.sellerName}</td>
                   <td
                     className="show992">{sale.visited}</td>
@@ -96,7 +96,7 @@ function SalesCard() {
                   <td>
                     <div
                       className="dsmeta-red-btn-container">
-                      <NotificationButton saleId={sale.id}/>
+                      <NotificationButton saleId={sale.id} />
                     </div>
                   </td>
                 </tr>
